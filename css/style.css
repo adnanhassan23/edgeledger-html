@@ -205,7 +205,7 @@ p {
   display: flex;
 }
 
-#contact .map, #contact .contact-form {
+#contact #map, #contact .contact-form {
   flex: 1;
 }
 
